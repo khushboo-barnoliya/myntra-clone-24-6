@@ -8,7 +8,7 @@ import '../css/App.css'
 function Men() {
 
   useEffect(() => {
-    document.title = "Men Shopping"
+    document.title = "Mens"
   }, [])
 
 
